@@ -23,26 +23,6 @@ O sistema realiza operações de cadastro, consulta, atualização e exclusão(C
 
 ---
 
-## Estrutura do Projeto
-
-```text
-src/main/java
-└── br.com.carpoolio
-    ├── Entity
-    │   ├── Usuario.java
-    │   ├── Veiculo.java
-    │   ├── TipoVeiculo.java
-    │   └── StatusVeiculo.java
-    │
-    └── testes
-        ├── TesteCadastro.java
-        ├── TesteConsulta.java
-        ├── TesteAtualizacao.java
-        └── TesteExclusao.java
-```
-
----
-
 ## Modelo de Dados
 
 ### Usuário
